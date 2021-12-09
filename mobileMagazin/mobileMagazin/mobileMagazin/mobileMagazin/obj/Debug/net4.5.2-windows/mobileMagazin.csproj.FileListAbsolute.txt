@@ -1,0 +1,11 @@
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.Form1.resources
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.csproj.GenerateResource.cache
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.AssemblyInfoInputs.cache
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.AssemblyInfo.cs
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.csproj.CoreCompileInputs.cache
+D:\mobileMagazin\mobileMagazin\mobileMagazin\bin\Debug\net4.5.2-windows\mobileMagazin.exe.config
+D:\mobileMagazin\mobileMagazin\mobileMagazin\bin\Debug\net4.5.2-windows\mobileMagazin.exe
+D:\mobileMagazin\mobileMagazin\mobileMagazin\bin\Debug\net4.5.2-windows\mobileMagazin.pdb
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.exe
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.pdb
+D:\mobileMagazin\mobileMagazin\mobileMagazin\obj\Debug\net4.5.2-windows\mobileMagazin.csproj.AssemblyReference.cache
